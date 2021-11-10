@@ -1,4 +1,4 @@
-package coding-mod
+package coding_mod
 
 import "fmt"
 
